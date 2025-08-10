@@ -23,7 +23,7 @@ This IoT system leverages an **Arduino Mega 2560** as its hub, integrating:
 - **Slide Button** for manual activation/testing
 
 **Hardware Block Diagram:**
-![Hardware Block Diagram](images/fig1.jpg)
+![Hardware Block Diagram](images/fig1.png)
 
 ---
 
@@ -32,7 +32,7 @@ This IoT system leverages an **Arduino Mega 2560** as its hub, integrating:
 Components are connected as shown below, ensuring reliable communication and safe actuation in emergency situations.
 
 **Circuit Diagram:**
-![Circuit Diagram](images/fig2.jpg)
+![Circuit Diagram](images/fig2.png)
 
 ---
 
@@ -43,14 +43,14 @@ Components are connected as shown below, ensuring reliable communication and saf
   - **Result:** Maximizes wireless network scalability and battery life
 
 **Transmission Comparison:**
-![Protocol Transmissions Comparison](images/fig3.jpg)
+![Protocol Transmissions Comparison](images/fig3.png)
 
 ### 2. **Energy Consumption Optimization**
 - **Wake-on-Fire mode:** Achieves over **20% less energy usage** compared to "Always-On"
   - **Fig. 4**: Notice the drastic reduction in average consumption, crucial for battery-backed IoT deployments
 
 **Energy Consumption Over Time:**
-![Wake-on-Fire vs Always-On Energy](images/fig4.jpg)
+![Wake-on-Fire vs Always-On Energy](images/fig4.png)
 
 ---
 
